@@ -7,3 +7,9 @@ git reflog
 git reset --hard 1212121
 git remote -v
 git remote add origin [git地址]
+git remote rm  origin
+
+
+git pull origin master
+
+git push origin master
